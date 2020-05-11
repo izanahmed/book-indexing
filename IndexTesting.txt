@@ -1,0 +1,70 @@
+Enter path of the correctly formatted file to be indexed: C:/Users/Izan Ahmed/Downloads/index-notes.dat
+
+Index Below:
+
+Exponential sums, 79, 105, 113, 366
+Matrix
+    inverse, 95, 314, 482, 657
+    null space, 425, 625
+Primitive recursive function, 152
+Subtraction, 178, 191, 197, 250, 265
+    complex, 468
+    continued fractions, 602
+    floating-point, 100, 214, 219, 230, 232, 238, 249
+    power series, 506
+
+// If an empty line is present
+
+Enter path of the correctly formatted file to be indexed: C:/Users/Izan Ahmed/Downloads/index-notes.dat
+Empty line found and skipped!
+
+Index Below:
+
+Exponential sums, 79, 105, 113, 366
+Matrix
+    inverse, 95, 314, 482, 657
+    null space, 425, 625
+Primitive recursive function, 152
+Subtraction, 178, 191, 197, 250, 265
+    complex, 468
+    continued fractions, 602
+    floating-point, 100, 214, 219, 230, 232, 238, 249
+    power series, 506
+
+// If an incorrect format is present, depending on how many errors, we have that number of messages.
+
+//Only incorrect edit made at pg 249, notice that it is missing.
+
+Enter path of the correctly formatted file to be indexed: C:/Users/Izan Ahmed/Downloads/index-notes.dat
+
+Index Below:
+
+Incorrect Format! Please fix the file! The following result is not correct!
+Exponential sums, 79, 105, 113, 366
+Matrix
+    inverse, 95, 314, 482, 657
+    null space, 425, 625
+Primitive recursive function, 152
+Subtraction, 178, 191, 197, 250, 265
+    complex, 468
+    continued fractions, 602
+    floating-point, 100, 214, 219, 230, 232, 238
+    power series, 506
+
+//Incorrect edit made at 2 places, 506, and 238. Notice that they are missing.
+
+Enter path of the correctly formatted file to be indexed: C:/Users/Izan Ahmed/Downloads/index-notes.dat
+Incorrect Format! Please fix the file! The following result is not correct!
+
+Index Below:
+
+Exponential sums, 79, 105, 113, 366
+Matrix
+    inverse, 95, 314, 482, 657
+    null space, 425, 625
+Primitive recursive function, 152
+Subtraction, 178, 191, 197, 250, 265
+    continued fractions, 602
+    floating-point, 100, 214, 219, 230, 232, 249
+Incorrect Format! Please fix the file! The following result is not correct!
+Incorrect Format! Please fix the file! The following result is not correct!
